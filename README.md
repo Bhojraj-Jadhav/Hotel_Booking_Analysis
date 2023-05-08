@@ -7,7 +7,7 @@ Multivariate analysis.
 
 ### Key Findings:
 - Optimized revenue management strategies based on predictor variables can increase revenue by 25%.
-- Understood customer behavior patterns can inform targeted marketing campaigns and improve customer experience upto 98%.
+- Understood customer behavior patterns can inform targeted marketing campaigns and improve customer experience upto 98%.
 - The analysis can help hotels allocate resources more effectively and gain a competitive advantage.
 
 ### Key Skills:  
